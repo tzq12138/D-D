@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+
+# Build, coverage, and runtime output
+dist/
+coverage/
+.data/
+uploads/
+*.log
+*.sqlite
+*.db
+
+# Environment and local machine state
+.env
+.env.*
+.obsidian/
+.workbuddy/
+.claude/
+.codex/
+__pycache__/
+*.py[cod]
+
+# Nested repository metadata backups
+.git.inner-backup/
+
+# Large or non-code source materials
+COC/TRPG-main/
+COC/TRPG-main.zip
+COC/COC.7z
+剧本杀/
+/人工智能驱动的*.md
+/基于虚拟跑团*.md
+/COC/人工智能驱动的*.md
+
+# Binary documents and media
+*.pdf
+*.xlsx
+*.xlsm
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.7z
+*.zip
+*.rar
+*.mp3
+*.wav
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.xcf
