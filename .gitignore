@@ -1,4 +1,4 @@
-# Dependencies
+﻿# Dependencies
 node_modules/
 
 # Build, coverage, and runtime output
@@ -31,6 +31,7 @@ COC/COC.7z
 /人工智能驱动的*.md
 /基于虚拟跑团*.md
 /COC/人工智能驱动的*.md
+host模块设计/V1.0/
 
 # Binary documents and media
 *.pdf
